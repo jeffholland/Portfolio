@@ -1,7 +1,13 @@
 body{
-    background-color: #020540;
+    background-color: #020540;    
+    /* background-color:#023059; */
     color:#F2EEEB;
     font-family: 'Ibarra Real Nova', serif;
+    padding:15px;
+}
+
+.header{
+    /* padding: 15px; */
 }
 
 h1{
@@ -17,8 +23,4 @@ h2{
 h3{
     color:#0388A6;
     font-size: 30px;
-}
-
-hr{
-    color:#023059
 }
